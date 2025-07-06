@@ -4,7 +4,7 @@ A simple and fun **Stone Paper Scissors** (also known as Rock Paper Scissors) ga
 
 ## 🎮 Live Demo
 
-🔗 [Play the Game](https://your-github-username.github.io/stone-paper-scissors/)  
+🔗 [Play the Game](https://Susmita75.github.io/stone-paper-scissors/)  
 *(Replace with your actual GitHub Pages link if hosted)*
 
 ## 🛠️ Tech Stack
@@ -27,4 +27,4 @@ To run this project locally:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/stone-paper-scissors.git
+   git clone https://github.com/Susmita75/stone-paper-scissors.git
