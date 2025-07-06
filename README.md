@@ -5,7 +5,6 @@ A simple and fun **Stone Paper Scissors** (also known as Rock Paper Scissors) ga
 ## 🎮 Live Demo
 
 🔗 [Play the Game][(https://Susmita75.github.io/stone-paper-scissors/)  ](http://127.0.0.1:5500/index.html)
-*(Replace with your actual GitHub Pages link if hosted)*
 
 ## 🛠️ Tech Stack
 
