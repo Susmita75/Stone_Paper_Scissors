@@ -21,11 +21,6 @@ A simple and fun **Stone Paper Scissors** (also known as Rock Paper Scissors) ga
 - Win/lose/draw message display
 - Responsive design (optional: mention if it works on mobile)
 
-## 📷 Screenshot
-
-![Game Screenshot](screenshot.png)  
-*(Add a screenshot of your game in your repo with the name `screenshot.png`)*
-
 ## 🚀 Getting Started
 
 To run this project locally:
