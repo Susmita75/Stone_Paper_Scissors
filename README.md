@@ -2,10 +2,6 @@
 
 A simple and fun **Stone Paper Scissors** (also known as Rock Paper Scissors) game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer and test your luck!
 
-## 🎮 Live Demo
-
-🔗 [Play the Game][(https://Susmita75.github.io/stone-paper-scissors/)  ](http://127.0.0.1:5500/index.html)
-
 ## 🛠️ Tech Stack
 
 - **HTML** – Structure of the game interface  
